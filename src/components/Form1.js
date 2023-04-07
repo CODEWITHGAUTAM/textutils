@@ -63,7 +63,7 @@ export default function Form1(props) {
             <button type="button" onClick={handleUpClick} className="btn btn-primary mx-3"  >ConvertToUppercase</button>
             <button type="button" onClick={handleUpClick1} className="btn btn-primary mx-3"  >ConvertToLowercase</button>
             <button type="button" onClick={handleUpClick2} className="btn btn-primary mx-3"  >Clear Text</button>
-            <button type="button" onClick={RemoveSpace} className="btn btn-primary mx-3"  >Remove Extra Space</button>
+            <button type="button" onClick={RemoveSpace} className="btn btn-primary mx-3"  >Remove Space</button>
            </div>
            <div className="container my-3">
                <h2>Your text Summary</h2>
